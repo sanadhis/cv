@@ -1,6 +1,9 @@
-# My 2-pages CV in Latex
+# My 2-pages CV in LaTeX
 
 > Quite messy, includes several packages that are actually unused. Feel free to use and tidy up the template
+
+## Base Template
+http://www.latextemplates.com/template/plasmati-graduate-cv
 
 ## License
 http://creativecommons.org/licenses/by-nc-sa/3.0/
@@ -15,6 +18,6 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/
 2. Run the script in terminal:
 
   ```bash
-  $ cd cv
+  $ cd cv/
   $ xelatex cv.tex
   ```
